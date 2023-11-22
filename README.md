@@ -6,7 +6,7 @@ The goal of that competition was to detect and translate American Sign Language 
 
 Link of the competition : https://www.kaggle.com/competitions/asl-fingerspelling
 
-# Our Solution
+# Our solution
 
 To address the problem posed in this competition, we have chosen to implement a text-to-speech processing model based on an encoder-decoder architecture, using CTC loss (Connectionist Temporal Classification loss) as the loss function. For a better understanding, let's take a look at CTC loss and the Conformer architecture.
 
