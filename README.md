@@ -29,6 +29,6 @@ Our team consisted of 3 members, Yanis Bardes, Jeremy Ling and myself. We gave i
 ![](images/leaderbord.png)
 
 
-In this repository, you can fing our training and inference code. You can also find our data pre-processing code here.
+In this repository, you can find our training and inference code. You can also find our data pre-processing code here.
 
 We want to thank kaggle and google for this competition, and also thank the other competitors, some of whom have published very interesting notebooks, some of whose ideas we have taken up, particularly in the area of data pre-processing.
